@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,PPV Events 03 |  6PM UFC Fight Night Zombie v IGE
+http://ukmxtv.co.uk:80/paul/paul123/100725
+#EXTINF:-1, CNN Chile  | CL
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, Tele 8 Illapel  | CL
+https://5eae379fb77bb.streamlock.net/rauleduardo493/rauleduardo493/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, Radio La Serena  | CL
+https://streamyes.alsolnet.com/radioserena/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, Mi Radio TV  | CL
+https://v2.tustreaming.cl/miradiotv/live1/rewind-999999.m3u8?PlaylistM3UCL
+#EXTINF:-1, RCKStudio  | CL
+https://inliveserver.com:1936/11530/11530/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, ARG | EL GOURMET
+http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/135878
+#EXTINF:-1, ARG | CNN ESPAÑOL
+http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/135867
+#EXTINF:-1, ARG | History 2
+http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/135792
+#EXTINF:-1,RETRO MUCIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
