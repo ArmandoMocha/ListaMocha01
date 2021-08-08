@@ -21,3 +21,5 @@ http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/135792
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1,RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+#EXTINF:-1,CAMARA LOS VILOS
+rtsp://usuario:usuarioagosto2021@192.168.1.108/cam/realmonitor?channel=5&subtype=0&unicast=true&proto=0nvif
